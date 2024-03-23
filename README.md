@@ -8,18 +8,18 @@ This project is an innovative solution designed to elevate APU students' coding 
 
 **For Admins:**
 
-* ☕ **Tutor Onboarding:** Craft the perfect team of coding mentors! Easily **register new tutors** with their details, ensuring a pool of talented guides. All sessions from Table 1 will be pre-loaded for seamless setup.
-*  **Session Scheduler:**  **Plan engaging workshops** by adding new sessions or titles to the system. Table 1 sessions will be readily available for the first launch, saving you valuable time.
-* ‍ **Student Management:**  **Register students** eager to enhance their coding prowess. Capture basic details like TP number and name, and allocate passwords for secure login.
-*  **Student Enrollment:**  **Match students with ideal sessions.** Facilitate easy enrollment, allowing students to link themselves to available workshops and embark on their coding journey.
+* ☕ **Tutor Onboarding:** Craft the perfect team of coding mentors! Easily **register new tutors** with their details, ensuring a pool of talented guides. All sessions will be pre-loaded for seamless setup.
+* **Session Scheduler:** **Plan engaging workshops** by adding new sessions or titles to the system. Sessions will be readily available for the first launch, saving you valuable time.
+* ‍ **Student Management:** **Register students** eager to enhance their coding prowess. Capture basic details like Student ID and name, and allocate passwords for secure login.
+* **Student Enrollment:** **Match students with ideal sessions.** Facilitate easy enrollment, allowing students to link themselves to available workshops and embark on their coding journey.
 
 **For Tutors:**
 
-* ‍ **Session Overview:**  **Stay organized and in control!** Tutors can conveniently **view a list of sessions assigned to their unique Tutor Code**. This ensures clear communication and a smooth learning experience for students.
+* ‍ **Session Overview:** **Stay organized and in control!** Tutors can conveniently **view a list of sessions assigned to their unique Tutor Code**. This ensures clear communication and a smooth learning experience for students.
 
 **For Students:**
 
-*  **Session Exploration:** **Discover exciting learning opportunities!** Students can effortlessly **browse available sessions** based on their interests, equipping them with a roadmap to coding mastery.
+* **Session Exploration:** **Discover exciting learning opportunities!** Students can effortlessly **browse available sessions** based on their interests, equipping them with a roadmap to coding mastery.
 * ➕ **Self-Enrollment:** Take charge of your learning! Students can **enroll themselves in any available session**, allowing them to pursue programming topics that spark their passion.
 
 **Benefits:**
@@ -28,16 +28,8 @@ This project is an innovative solution designed to elevate APU students' coding 
 * **Improved Problem-Solving:** Through interactive sessions, students hone their problem-solving skills, equipping them to tackle coding challenges with confidence.
 * **Confidence Boost:** By collaborating with experienced tutors and mastering intricate concepts, students build strong self-belief in their coding abilities.
 
-**Project Status:**
-
-* This project is currently under development. Stay tuned for updates!
-
 **Contributing:**
 
 Join us in brewing a vibrant coding community! We welcome contributions from passionate developers. Feel free to reach out with any questions or ideas.
 
-**License:**
 
-This project is licensed under the MIT License.
-
-**Let's work together to make Programming Cafe a success!**
